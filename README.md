@@ -26,7 +26,7 @@ symptomGPT is a fun and stimulating Streamlit app that provides AI-powered healt
 ### 3. Clone the Repository
 
 ```bash
-cd symptom-gpt
+
 git clone https://github.com/sezaras85/sentient_SymptomGPT.git
 cd symptom-gpt
 cp .env.example .env
